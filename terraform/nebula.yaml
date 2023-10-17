@@ -1,0 +1,3 @@
+package_upgrade: true
+packages:
+ - nebula
